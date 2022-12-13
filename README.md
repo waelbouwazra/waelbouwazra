@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bouwazra Mohamed Wael</h1>
-<h3 align="center">A passionate full stack developer from Tunisia</h3>
+<h1 align="center">Hi 👋, I'm Bouwazra Wael</h1>
+<h3 align="center">Computer Science Engineer From ESPRIT School of engineering majoring in Web and Information Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waelbouwazra&label=Profile%20views&color=0e75b6&style=flat" alt="waelbouwazra" /> </p>
 
