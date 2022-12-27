@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bouwazra Wael</h1>
-<h3 align="center">Computer Science Engineer From ESPRIT School of engineering majoring in Web and Information Technologies</h3>
+<h3 align="center">Computer Science Engineer From ESPRIT School of engineering majoring in Web and Information Technologies
+, Full stack developer with a passion for building intuitive and performant web applications. Skilled in Java, Php, and JavaScript, with experience in a variety of frameworks and technologies. Always looking to learn and improve my skills, and excited to contribute to the developer community through open source projects. Feel free to reach out with questions or suggestions for my projects!
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waelbouwazra&label=Profile%20views&color=0e75b6&style=flat" alt="waelbouwazra" /> </p>
 
